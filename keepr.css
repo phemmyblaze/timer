@@ -83,16 +83,16 @@ body{
 
 
 .morning {
-    background-color: skyblue;
+    background-color: blue;
 }
 
 .afternoon {
-    background-color: yellow;
+    background-color: orange;
 }
 
 
 .evening {
-    background-color: gray;
+    background-color: purple;
 }
 
 .night {
